@@ -7,6 +7,7 @@ https://developer.android.com/reference/android/widget/AdapterView.OnItemClickLi
 https://stackoverflow.com/questions/7577848/android-onitemclicklistener-not-working
 https://medium.com/@kkunalandroid/serializable-in-android-with-example-38eb8b7334ea
 https://ualberta-cmput301.github.io/labs/lab3_inst.html#lab-3-participation-exercise
+https://developer.android.com/reference/android/app/Fragment#getArguments()
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
